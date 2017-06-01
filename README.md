@@ -9,9 +9,9 @@ Data Wrangling process involves the following steps:
 Analysis of the data is carried out after these steps.
 
 Gathering the data
-* In this project the city data of "The Southampton of England" was gathered from the website called  https://www.openstreetmap.org, as per the instructions.
-* "The uncompressed size of the file must be atleast 50MB " was the criteria given to chose a data.
-* The compressed data file was downloaded and found that they were very large in an uncompressed format .
+* In this project the data of "The Southampton of England" was gathered from the website called  https://www.openstreetmap.org, as per the instructions.
+* "The uncompressed size of the file must be atleast 50MB " was the criteria given to choose a data.
+* The compressed data file was downloaded and found that they were much larger in an uncompressed format .
 * The data of fairly small size was selected to avoid the long execution times for each query.
 
 Extracting the data
